@@ -7,8 +7,8 @@
 	],
 	"sourcesContent": [
 		"@import \"main\";",
-		".current {\r\n  color: green;\r\n}"
+		".current {\r\n  color: green;\r\n}\r\n.site-logo {\r\n  padding: 5px;\r\n  position: absolute;\r\n  top: 0px;\r\n  right: 0px;\r\n}\r\nbody {\r\n  font-family: system-ui,fangsong,monospace;\r\n  color: #430319;\r\n  padding-right: 250px;\r\n}\r\n"
 	],
 	"names": [],
-	"mappings": "ACAA,AAAA,QAAQ,CAAC,EACP,KAAK,EAAE,KAAK,GACb"
+	"mappings": "ACAA,AAAA,QAAQ,CAAC,EACP,KAAK,EAAE,KAAK,GACb;;AACD,AAAA,UAAU,CAAC,EACT,OAAO,EAAE,GAAG,EACZ,QAAQ,EAAE,QAAQ,EAClB,GAAG,EAAE,GAAG,EACR,KAAK,EAAE,GAAG,GACX;;AACD,AAAA,IAAI,CAAC,EACH,WAAW,EAAE,4BAA4B,EACzC,KAAK,EAAE,OAAO,EACd,aAAa,EAAE,KAAK,GACrB"
 }

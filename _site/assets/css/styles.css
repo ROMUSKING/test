@@ -1,3 +1,7 @@
 .current { color: green; }
 
+.site-logo { padding: 5px; position: absolute; top: 0px; right: 0px; }
+
+body { font-family: system-ui,fangsong,monospace; color: #430319; padding-right: 250px; }
+
 /*# sourceMappingURL=styles.css.map */

@@ -1,3 +1,13 @@
+title: The journey of Cknik
+email: journey@cknik.com
+description: >- # this means to ignore newlines until "baseurl:"
+  This website is an attempt to learn how to make a website.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://cknik.com" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: CknikJK
+github_username:  romusking
+
+
 plugins:
   - jekyll-feed
   - jekyll-sitemap
